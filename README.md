@@ -1,4 +1,4 @@
-# Exploring Lannguages - Haskell
+# Exploring Languages - Haskell
 ## CS421
 
 ## Author(s):
